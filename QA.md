@@ -29,3 +29,7 @@ Supplied business address, numbers, email and two service categories only. No ho
 ## Graphics revision
 
 Redrew the hero wheel with connected, symmetrical spokes, concentric rotor details and a red caliper. Replaced the brake and tire icons, phone icon and favicon. Verified all three SVG image assets load in Chrome at desktop and mobile widths; the service icons render at 58px on desktop and 48px on mobile. Removed README at the user's request.
+
+## Social link
+
+Added a Nextdoor link in the contact section. Verified on November 24, 2026 that https://nextdoor.com/pages/father-son-auto-care-east-meadow-ny/ matches the supplied business name, 314 East Meadow Ave address, (516) 542-0413 main phone and memavlios@gmail.com email. Facebook and Instagram were not added because matching profiles could not be verified. External link opens a new tab with noopener/noreferrer and an accessible new-tab notice.
