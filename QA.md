@@ -25,3 +25,7 @@ Netlify project created without Git linkage or uploading a deployment. Project r
 ## Content and accessibility
 
 Supplied business address, numbers, email and two service categories only. No hours, prices, warranties, certifications or unsupported business claims. Visible unofficial concept label. Original SVG artwork has an accessible description; no stock or generated photos are used. Semantic headings, landmarks, skip link, visible keyboard focus and reduced-motion support are included.
+
+## Graphics revision
+
+Redrew the hero wheel with connected, symmetrical spokes, concentric rotor details and a red caliper. Replaced the brake and tire icons, phone icon and favicon. Verified all three SVG image assets load in Chrome at desktop and mobile widths; the service icons render at 58px on desktop and 48px on mobile. Removed README at the user's request.
