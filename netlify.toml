@@ -1,0 +1,11 @@
+"$schema" = "https://open-api.netlify.com/netlify.schema.json"
+
+# Owner-review concept. No deployment is authorized.
+[build]
+  publish = "public"
+  command = "node scripts/unpublished.mjs"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow, noarchive"
